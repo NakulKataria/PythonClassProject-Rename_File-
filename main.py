@@ -1,5 +1,4 @@
 import os
-import sys
 from datetime import datetime
 
 def rename_files(folder_path, rule='add_date_prefix'):
